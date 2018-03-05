@@ -14,5 +14,6 @@ CSS3: Property [some property here] is an unknown vendor extension when using ve
 
 
 ## Notes
-I decided to take the time and make the site without frameworks, in order to understand media queries better.
+1. I decided to take the time and make the site without frameworks, in order to understand media queries better.
 
+2. I decided wrong, cuz turned out I had to use Bootstrap or at least flexbox.
